@@ -13,13 +13,10 @@ public class CalculatorMain {
 	public int div(int a, int b) {
 		return a/b;
 		}
-<<<<<<< HEAD
-
-		
-	
-}
-=======
+	public int mul(int a, int b) {
+		return a*b;
+		}
 		
 	}
 
->>>>>>> master
+
