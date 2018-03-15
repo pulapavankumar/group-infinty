@@ -7,26 +7,20 @@ public class CalculatorMain {
 	public int add(int a, int b){
 		return a+b;
 	}
-<<<<<<< Updated upstream
+
 	public int sub(int a, int b) {
-	return a-b;
+		return a-b;
 	}
-	
-	public int mul(int a, int b) {
-		return a*b;
+	public int (int a, int b) {
+		return ab;
 	}
-		 
-		public int div(int a, int b) {
-			if(b==0)
-				return b;
-			else
-				return a/b;
-=======
-
->>>>>>> Stashed changes
-		}
-	}
-
+int a, int b {
+	if(b==0)
+		return b 
+		else
+			return a/b
+}
+}
 		
 		
 
