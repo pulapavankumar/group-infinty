@@ -7,6 +7,7 @@ public class CalculatorMain {
 	public int add(int a, int b){
 		return a+b;
 	}
+<<<<<<< Updated upstream
 	public int sub(int a, int b) {
 	return a-b;
 	}
@@ -20,11 +21,14 @@ public class CalculatorMain {
 				return b;
 			else
 				return a/b;
+=======
+
+>>>>>>> Stashed changes
 		}
 	}
 
 		
 		
-	
+
 
 
