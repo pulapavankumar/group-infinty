@@ -20,14 +20,9 @@ public class CalculatorMain {
 		else 
 			return a/b;
 	}
-	public class power {
-		public void main() {
-			int x=4,y=3;
-			double result= Math.pow(x,y);
-			System.out.println("x power y is="+result);
-		}
+	
 	}
-}
+
 
 
 	
