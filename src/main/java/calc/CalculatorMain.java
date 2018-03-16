@@ -13,6 +13,10 @@ public class CalculatorMain {
 	public int sub(int a, int b) {
 		return a-b;
 		}
+	//adding code
+	public int mul(int a,int b) {
+		return a*b;
+	}
 	}
 	
 
